@@ -1,0 +1,19 @@
+# STM32CubeIDE Junk
+Debug/
+Release/
+.settings/
+
+# Output files
+*.elf
+*.list
+*.map
+*.o
+*.d
+*.su
+
+# Launch configurations
+*.launch
+
+# OS junk
+Thumbs.db
+.DS_Store
